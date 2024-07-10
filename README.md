@@ -1,5 +1,5 @@
 
-## 🏏 CricKnight
+## 🏏 EAgroTrade
 
 The Main Aim of E-AGROTRADE Application is to provide a Generalized platform to Wholesalers & Retailers where they can buy/sell Fruits/Vegetables by conducting E-Auction.
 
@@ -39,35 +39,35 @@ OnBoarding Screen  | Home Screen
 <img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2012%20Pro)%20(2).png" height="500" width="320"> |  <img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2012%20Pro)%20(4).png" height="500" width="320">
 
 
-Register Screen  | Forgot-Password Screen
+Home Screen  | Notifications
 :-------------------------:|:-------------------------:
-<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/3.jpg" height="500" width="320"> |  <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/4.jpg" height="500" width="320"> 
+<img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2012%20Pro)%20(7).png" height="500" width="320"> |  <img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2012%20Pro)%20(8).png" height="500" width="320"> 
 
-Home Screen  | Drawer Screen
+My Products  | My Auctions
 :-------------------------:|:-------------------------:
-<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/5.jpg" height="500" width="320">   | <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/6.jpg" height="500" width="320"> 
+<img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2012%20Pro)%20(9).png" height="500" width="320">   | <img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2014%20Pro%20Max)%20(10).png" height="500" width="320"> 
 
-Book Box-Ground Screen  | CricNews Screen
+Add Product  | Add Auction
 :-------------------------:|:-------------------------:
-<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/8.jpg" height="500" width="320"> | <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/9.jpg" height="500" width="320"> 
+<img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2014%20Pro%20Max)%20(1).png" height="500" width="320"> | <img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2014%20Pro%20Max)%20(2).png" height="500" width="320"> 
 
-Matches Screen  | Tournament Screen
+Live Bids  | Profile
 :-------------------------:|:-------------------------:
-<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/10.jpg" height="500" width="320">   |  <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/tour.jpg" height="500" width="320"> 
+<img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2014%20Pro%20Max)%20(6).png" height="500" width="320">   |  <img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2014%20Pro%20Max)%20(8).png" height="500" width="320"> 
 
 
-Create-Team Screen  | Live IPL-Score Screen
+Orders  | Order Status
 :-------------------------:|:-------------------------:
-<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/12.jpg" height="500" width="320">  |  <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/ipl1.jpg" height="500" width="320"> 
+<img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2014%20Pro%20Max)%20(14).png" height="500" width="320">  |  <img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2014%20Pro%20Max)%20(16).png" height="500" width="320"> 
 
-Live IPL-Score Screen  | Contact-Us Screen
+Payment  | Weekly-Off
 :-------------------------:|:-------------------------:
-<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/ipl2.jpg" height="500" width="320">  |  <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/c.jpg" height="500" width="320"> 
+<img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2014%20Pro%20Max)%20(17).png" height="500" width="320">  |  <img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2014%20Pro%20Max)%20(19).png" height="500" width="320"> 
 
 
-Proile Screen  | Edit-Profile Screen
+Profile Screen  | Business Info Screen
 :-------------------------:|:-------------------------:
-<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/7.jpg" height="500" width="320">   |  <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/edit.jpg" height="500" width="320"> 
+<img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2014%20Pro%20Max)%20(9).png" height="500" width="320">   |  <img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2014%20Pro%20Max)%20(11).png" height="500" width="320"> 
 
 
 
