@@ -34,9 +34,9 @@ The Main Aim of E-AGROTRADE Application is to provide a Generalized platform to 
 - Manage Customers(Retailers)
 
 ## 📱 Screenshots
-OnBoarding Screen  | Login Screen
+OnBoarding Screen  | Home Screen
 :-------------------------:|:-------------------------:
-<img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2012%20Pro)%20(2).png" height="500" width="320"> |  <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/2.png" height="500" width="320">
+<img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2012%20Pro)%20(2).png" height="500" width="320"> |  <img src="https://github.com/JuveriyahMansuri/AgroTrade_project/blob/main/wholesaler_ss/localhost_62872_(iPhone%2012%20Pro)%20(4).png" height="500" width="320">
 
 
 Register Screen  | Forgot-Password Screen
